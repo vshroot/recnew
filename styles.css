@@ -509,3 +509,6 @@ tbody tr:hover{
   border: 2px solid rgba(0,0,0,.0);
 }
 *::-webkit-scrollbar-track{ background: rgba(255,255,255,.04); }
+[hidden]{
+  display: none !important;
+}
